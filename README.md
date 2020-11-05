@@ -1,1 +1,1 @@
-# plinkko
+# Plinko
